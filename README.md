@@ -51,3 +51,6 @@ Some new features are implemented in the physics invader vaersion.
 **Video Demo on Youtube**
 
 [![The Preview of the game.](http://img.youtube.com/vi/nbUnv4sMPyQ/0.jpg)](https://www.youtube.com/watch?v=nbUnv4sMPyQ)
+
+
+Note: some of the assets are downloaded from [Kenny](https://kenney.nl/) and bought from [Meshtint Studio](https://www.meshtint.com/).
